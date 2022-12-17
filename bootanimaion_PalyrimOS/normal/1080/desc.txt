@@ -1,5 +1,5 @@
 1080 2338 30
 c 1 50 part0
 p 0 0 part1
-c 0 0 part2
+c 1 0 part2
 c 1 0 part3

@@ -1,0 +1,6 @@
+1080 2400 60
+dynamic_colors part0 #ffdad6 #bf5150 #f5eb96 #fffbfb 5 10
+c 1 100 part0
+c 1 0 part1
+c 0 0 part2
+c 0 0 part3

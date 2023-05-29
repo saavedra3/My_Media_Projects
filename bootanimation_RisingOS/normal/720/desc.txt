@@ -1,0 +1,5 @@
+720 1520 60
+c 1 80 part0
+c 1 0 part1
+p 0 0 part2
+c 1 0 part3
